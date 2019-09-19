@@ -1,9 +1,0 @@
-G:\Проекты\C#\GetAlllFormulas\PropositionalAlgebraFormula\bin\Release\netstandard2.0\PropositionalAlgebraFormula.deps.json
-G:\Проекты\C#\GetAlllFormulas\PropositionalAlgebraFormula\bin\Release\netstandard2.0\PropositionalAlgebraFormula.dll
-G:\Проекты\C#\GetAlllFormulas\PropositionalAlgebraFormula\bin\Release\netstandard2.0\PropositionalAlgebraFormula.pdb
-G:\Проекты\C#\GetAlllFormulas\PropositionalAlgebraFormula\obj\Release\netstandard2.0\PropositionalAlgebraFormula.csprojAssemblyReference.cache
-G:\Проекты\C#\GetAlllFormulas\PropositionalAlgebraFormula\obj\Release\netstandard2.0\PropositionalAlgebraFormula.csproj.CoreCompileInputs.cache
-G:\Проекты\C#\GetAlllFormulas\PropositionalAlgebraFormula\obj\Release\netstandard2.0\PropositionalAlgebraFormula.AssemblyInfoInputs.cache
-G:\Проекты\C#\GetAlllFormulas\PropositionalAlgebraFormula\obj\Release\netstandard2.0\PropositionalAlgebraFormula.AssemblyInfo.cs
-G:\Проекты\C#\GetAlllFormulas\PropositionalAlgebraFormula\obj\Release\netstandard2.0\PropositionalAlgebraFormula.dll
-G:\Проекты\C#\GetAlllFormulas\PropositionalAlgebraFormula\obj\Release\netstandard2.0\PropositionalAlgebraFormula.pdb
