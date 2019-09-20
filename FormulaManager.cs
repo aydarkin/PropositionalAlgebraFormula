@@ -93,9 +93,9 @@ namespace PropositionalAlgebraFormula
                     input = "(" + input + ")";
 
                     //проверка на то, содержит ли формула отрицание всего
-                    if(input.StartsWith("(~{") && input.EndsWith("})"))
+                    if(input.StartsWith("(" + Formula.AccessNegativeOperator + "{") && input.EndsWith("})"))
                     {
-                        input = Formulas.Last().View.Insert(1, "~");
+                        input = Formulas.Last().View.Insert(1, Formula.AccessNegativeOperator.ToString());
                         Formulas.RemoveAt(Formulas.Count - 1); //удалить последний, чтобы потом заменить
                     }
                         

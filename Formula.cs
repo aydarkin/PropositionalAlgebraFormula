@@ -32,7 +32,8 @@ namespace PropositionalAlgebraFormula
         public List<Variable> Variables { get; set; }
         public List<char> Operators { get; set; }
 
-        private List<char> AccessOperators = new List<char> { '+', '*', '>', '=' };
+        public static List<char> AccessOperators = new List<char> { '+', '*', '>', '=' };
+        public static char AccessNegativeOperator = '~';
 
         /// <summary>
         /// Инициализация формулы алгебры высказываний

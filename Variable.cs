@@ -16,10 +16,10 @@ namespace PropositionalAlgebraFormula
 
         public Variable(string variable)
         {
-            if (variable.Contains('~'))
+            if (variable.Contains(Formula.AccessNegativeOperator))
             {
                 IsNegative = true;
-                View = variable.Replace("~", "");
+                View = variable.Replace(Formula.AccessNegativeOperator.ToString(), "");
             }
             else
             {
@@ -43,7 +43,7 @@ namespace PropositionalAlgebraFormula
         public override string ToString()
         {
             if (IsNegative)
-                return "~" + this.View;
+                return Formula.AccessNegativeOperator + this.View;
             else
                 return this.View;
         }
