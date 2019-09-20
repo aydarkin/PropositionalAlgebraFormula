@@ -12,6 +12,7 @@ try
 catch (Exception err)
 {
     MessageBox.Show(err.Message);
-    return;
 } 
 ```
+### Требования
+.NET Standart 2.0
